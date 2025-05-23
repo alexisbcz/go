@@ -1,3 +1,3 @@
-module github.com/alexisbcz/x
+module github.com/alexisbcz/go
 
 go 1.24.2
